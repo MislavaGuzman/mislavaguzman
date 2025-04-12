@@ -34,10 +34,5 @@ Soy desarrolladora **Full Stack** apasionada por la tecnología, el aprendizaje 
 - 💼 LinkedIn: [miroslavaguzman](https://linkedin.com/in/miroslavaguzman)
 - 🌐 Portafolio: [miroslavaguzman.dev](https://miroslavaguzman.dev) *(próximamente)*
 
-
-## 🎶 Currently listening on Spotify
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=miroslava.music&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/1296640481?si=DPIFtiLeQBenQqAOcJyL-g)
-
 ---
 
