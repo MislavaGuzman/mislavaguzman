@@ -26,7 +26,7 @@ Soy desarrolladora **Full Stack** apasionada por la tecnología, el aprendizaje 
 ## 🌱 Actualmente aprendiendo...
 
 - 📦 **Machine Learning para contratos inteligentes**
-- 📊 **Integración de dashboards con ML y Power BI**
+- 📊 **Diseño de arquitectura**
 - ☁️ **AWS Lambda, S3, RDS**
 - 🔒 **Hacking ético con Python y Linux**
 
