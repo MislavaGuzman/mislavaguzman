@@ -1,4 +1,4 @@
-<img src="https://github.com/mislavaguzman/mislavaguzman/blob/main/Desktop - 1.jpg" alt="Banner" width="100%" />
+<img src="https://github.com/mislavaguzman/mislavaguzman/blob/main/Desktop - 1(1).jpg" alt="Banner" width="100%" />
 
 Soy desarrolladora **Full Stack** apasionada por la tecnología, el aprendizaje constante y la creación de soluciones inteligentes con impacto real. Trabajo con **NestJS, GraphQL, PostgreSQL, React, AWS** y me encanta combinar datos con inteligencia artificial para resolver problemas complejos.
 
