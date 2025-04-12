@@ -1,4 +1,4 @@
-# Hola, soy Miroslava Guzmán 
+<img src="https://github.com/miroslavaguzman/miroslavaguzman/blob/main/Desktop - 1.jpg" alt="Banner" width="100%" />
 
 Soy desarrolladora **Full Stack** apasionada por la tecnología, el aprendizaje constante y la creación de soluciones inteligentes con impacto real. Trabajo con **NestJS, GraphQL, PostgreSQL, React, AWS** y me encanta combinar datos con inteligencia artificial para resolver problemas complejos.
 
@@ -20,7 +20,6 @@ Soy desarrolladora **Full Stack** apasionada por la tecnología, el aprendizaje 
 | [`memory-game`](https://github.com/miroslavaguzman/memory-game) | `Vue`, `TypeScript`, `Quasar` | Memorama educativo para aprender katakana/hiragana |
 | [`crawler`](https://github.com/miroslavaguzman/crawl-ai) | `Python`, `Crawl4AI`, `Pydantic`, `LangChain` | Web scraping inteligente usando LLMs para análisis de contenido |
 | [`portfolio`](https://github.com/miroslavaguzman/portfolio) | `React`, `Three.js`, `Tailwind` | Portafolio interactivo en 3D (en desarrollo) |
-
 
 ## 🌱 Actualmente aprendiendo...
 
