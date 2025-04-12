@@ -16,7 +16,7 @@ Soy desarrolladora **Full Stack** apasionada por la tecnología, el aprendizaje 
 
 | Proyecto | Tecnologías | Descripción |
 |---------|-------------|-------------|
-| [`alexandria-api`](https://github.com/miroslavaguzman/alexandria-api) | `NestJS`,`TypeORM`, `PostgreSQL` | API para gestión de solicitudes con roles avanzados |
+| [`alexandria-api`]) | `NestJS`,`TypeORM`, `PostgreSQL` | API para gestión de solicitudes con roles avanzados |
 | [`pepsico`](https://github.com/CXSGepp/gtm-insight-front-end) | `React`,`Tankstack`, `Zustand`,`MUI`,| Front-end app para dashboard de anàlisis de datos |
 | [`pepsico`]([https://github.com/CXSGepp/gtm-insight-front-end](https://github.com/CXSGepp/getm-insight-backend)) |`Nest JS`,`TypeORM`, `GraphQL`,`Oracle`,| API para anàlisis de logistica y distribuciòn de  productos |
 | [`memory-game`](https://github.com/miroslavaguzman/memory-game) | `Vue`, `TypeScript`, `Quasar` | Memorama educativo para aprender katakana/hiragana |
